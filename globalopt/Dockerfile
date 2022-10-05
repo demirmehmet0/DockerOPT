@@ -13,13 +13,13 @@ RUN mkdir matrices
 RUN mkdir paar 
 RUN mkdir yosysTools 
 
-copy a1_a2_rnbp /
-copy bp /
-copy framework-main-2 /
-copy LWFWSW /
-copy matrices /
-copy paar /
-copy yosysTools /
+copy a1_a2_rnbp /a1_a2_rnbp
+copy bp /bp
+copy framework-main-2 /framework
+copy LWFWSW /LWFWSW
+copy matrices /matrices
+copy paar /paar
+copy yosysTools /yosysTools
 copy main.py /
 copy matrix.txt /
 copy parameter.txt / 
