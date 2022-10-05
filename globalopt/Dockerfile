@@ -12,12 +12,14 @@ RUN mkdir LWFWSW
 RUN mkdir matrices 
 RUN mkdir paar 
 RUN mkdir yosysTools 
+RUN mkdir XZLBZ
 
 copy a1_a2_rnbp /a1_a2_rnbp
 copy bp /bp
 copy framework-main-2 /framework
 copy LWFWSW /LWFWSW
 copy matrices /matrices
+copy XZLBZ /XZLBZ
 copy paar /paar
 copy yosysTools /yosysTools
 copy main.py /
